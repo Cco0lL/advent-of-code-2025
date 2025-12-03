@@ -8,6 +8,7 @@ import java.nio.file.Paths
  **/
 
 // https://adventofcode.com/2025/day/2
+
 var invalidIdSum: Long = 0
 
 fun main() {
